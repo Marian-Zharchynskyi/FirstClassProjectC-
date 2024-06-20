@@ -1,0 +1,12 @@
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C#.csproj.AssemblyReference.cache
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C#.csproj.SuggestedBindingRedirects.cache
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project.Form1.resources
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C_.Properties.Resources.resources
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C#.csproj.GenerateResource.cache
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C#.csproj.CoreCompileInputs.cache
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\bin\Debug\Project_C#.exe.config
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\bin\Debug\Project_C#.exe
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\bin\Debug\Project_C#.pdb
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C#.exe
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C#.pdb
+D:\ОА\C#\Project_C#\Project_C#\Project_C#\obj\Debug\Project_C_.Rating_form.resources
